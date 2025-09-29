@@ -1,0 +1,26 @@
+# SoulSync: Emotional Health Passport
+
+**Your emotional journey, encrypted and empowered.**
+
+SoulSync is a decentralized emotional health profile that travels with you across platforms. It blends sentiment analysis, blockchain, and agentic AI to help users track emotional milestones, mint Mood NFTs, and share curated snapshots with loved ones or care providers.
+
+## 🌟 Features
+
+- **Sentiment Mining Engine**: Analyzes Reddit, Discord, and journaling data to detect emotional trends.
+- **SoulChain Ledger**: Stores emotional milestones securely on blockchain.
+- **AI Companion Sync**: Offers personalized affirmations and emotional insights.
+- **Mood NFTs**: Mint abstract art from emotional data.
+- **Emotional Passport Spec**: Portable, encrypted emotional profile.
+
+## 💡 Use Cases
+
+- Mental health apps  
+- Online communities  
+- Hackathon teams  
+- Healthcare providers
+
+## 🚀 How to Run
+
+```bash
+npm install
+npm start
